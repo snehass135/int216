@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>CSS BOX MODEL</title>
+    <link rel="stylesheet" href="stylebox.css">
+</head>
+<body>
+    <header class="container">
+        <h1>
+            CSS BOX MODEL
+        </h1>
+    </header>
+    <main class="container">
+        <p>
+            this is a sample file for css box model.
+            Lovely Professional University (LPU) is a private university located in Chaheru, Phagwara, Punjab, India. The university was established in 2005 by Lovely International Trust, under The Lovely Professional University Act, 2005 (Punjab Act 25 of 2005) and started operation in 2006.
+The university has 45+ teaching and research departments at the campus located at Chaheru, Phagwara, Punjab and more than 360+ Programme[citation needed] in various undergraduate, post-graduate and doctorate degrees in various disciplines including engineering,agricultural science, legal studies,management, computer sciences, education, media studies, animation and multimedia, tourism, biotechnology, architecture, pharma sciences, commerce, liberal arts and basic sciences.
+    Lovely Professional University (LPU) has emerged as a leader in the field of education. 
+    It is a distinctive institution which is not less than an IIT in terms of teaching, learning, research, entrepreneurship and leadership.
+
+        </p>
+    </main>
+</body>
+</html>

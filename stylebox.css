@@ -4,16 +4,46 @@ h1{
     font: size 3rem;
     padding: 0.5cm;
 }
-*{
+/* *{
     margin:0;
     padding:0;
     box-sizing: border-box; //border-box or content-box same
-}
+} */
 .container{
-    border: 2px solid blue;
+    border: 2px dashed blue;
+    /* border-top: 3px solid green;
+    border-right: 10px dotted yellow;
+border-top-width: 10px;
+border-top-style: ridge;
+border-right-color: blue;   */
+/* border: 20px double rebeccapurple; */
+/* general property overrides overall property */
+    /* border-bottom, border-top, border-left, border-right like margin */
+   outline: 5px solid gold;
+   outline-offset: -35px;
+   /* offset 5px away from the border outside, -35 inside the border*/
     font: size 1.5rem;
-    margin: 1em;
-    padding: 1em;
+    /* margin-top: 1.5em;
+    margin-right: 2em;
+    margin-bottom:2em;
+    margin-left:2em; */
+    margin: 1.5em 2em 3em; /*shorthand for margin*/
+    padding: 1.5em 2em 3em 4em;
+    /* padding-top, padding-bottom, padding-right AND padding-right just like margin */
+    /* padding-block-start: inherit; */
+
+}
+/* to comment ctrl+/
+or shift+ctrl+A */
+.circle{
+    background-color: gold;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    outline: 2px solid red;
+    outline-offset: 0.2rem;
+    margin:3rem auto;
+    border-radius: 50px;
 }
 
 

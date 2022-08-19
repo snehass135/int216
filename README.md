@@ -24,8 +24,8 @@
    <h1 > LOVELY PROFESSIONAL UNIVERSITY</h1>
    </header>
    <div>
-    <a href = "https://www.lpu.in/">HOME</a>
-    <a href = "https://www.lpu.in/contact_us/contact-us.php">CONTACT US</a>
+    <a href = "https://www.lpu.in/">HOME      </a>
+    <a href = "https://www.lpu.in/contact_us/contact-us.php">   CONTACT US</a>
    </div>
     <img src ="download.png" alt="LOVELY PROFESSIONAL UNIVERSITY" >
 <br>

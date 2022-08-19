@@ -46,6 +46,13 @@ or shift+ctrl+A */
     border-radius: 50px;
 }
 
-
+body{
+    padding: 25%;
+    font-size: 4rem;
+    color: blueviolet;
+}
+input,button{
+    font: inherit;
+}
 
 
